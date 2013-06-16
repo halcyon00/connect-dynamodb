@@ -1,4 +1,5 @@
 {
+  "private": true,
   "name": "connect-dynamodb",
   "description": "DynamoDB session store for Connect",
   "version": "1.0.1",
